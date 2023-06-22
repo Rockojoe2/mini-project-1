@@ -1,0 +1,72 @@
+ul {
+
+    list-style-type: none;
+    text-align: right;
+    right: 100px;
+}
+
+li {
+    display: inline;
+    margin-left: 25px;
+}
+
+.lesson {
+  background-color: lemonchiffon;
+  text-align: center;
+}
+
+.header{
+    
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    text-align: right;
+    background-color: seagreen;
+
+}
+
+.title {
+  color: darkblue;
+  text-align: center;
+}
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    padding: 5px;
+    width: 100%;
+    color: white;
+    background-color: seagreen;
+    text-align: center;
+}
+
+#email {
+  background-color: goldenrod;
+}
+
+#github {
+  background-color: lightsteelblue;
+}
+
+#portfolio {
+  background-color: darkorange;
+}
+
+#fname{
+
+}
+
+#lname{
+
+}
+
+#email{
+
+}
+
+#phone{
+    
+}
+
+
